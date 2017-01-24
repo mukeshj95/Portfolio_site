@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html>
 <head>
 	<title>test.html</title>
@@ -13,10 +14,10 @@
 <body>
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6" id="logo">
+			<div class=" col-xs-6 col-sm-6 col-md-6" id="logo">
 				<img src="http://st2.depositphotos.com/1972501/11226/v/950/depositphotos_112267474-stock-illustration-cat-vector-logo.jpg" id="image1" alt="logo">
 			</div>
-			<div class="col-md-6" id="heading">
+			<div class="col-xs-6 col-md-6 col-sm-6" id="heading">
 				<header><h1>jane doette</h1></header>
 				<nav>front-end ninja</nav>
 			</div>
@@ -39,16 +40,19 @@
 				<h2 id="article">Featured Kittens</h2>
 				<div class="col-sm-4 col-md-4" id="gap1">
 					<img src="http://cdn.litlepups.net/2015/07/18/small_cute-kittens-wallpapers-1920x1200px-kittens-wallpaper-837232.jpg" id="image3" alt="image of link">
+					<br \>
 					<h2>Cute kitten</h2> 
 					<a href="http://www.google.co.in/kitten_10"><p>http://www.google.co.in/kitten_10</p></a>
 				</div>
 				<div class="col-sm-4 col-md-4" id="gap2">
 					<img src="http://cdn.litlepups.net/2015/07/23/small_kittens-wallpapers-full-hd-wallpaper-search-1920x1200px-cute.jpg" id="image4" alt="image of link">
+					<br \>
 					<h2>Kittens</h2>
 					<a href="http://www.google.co.in/kitten_11"><p>http://www.google.co.in/kitten_11</p></a>
 				</div>
 				<div class="col-sm-4 col-md-4" id="gap3">
 					<img src="http://cdn.litlepups.net/2015/07/23/small_kitten-hd-wallpaper-cute-download-best-desktop-1920x1200px.jpg" id="image5" alt="image of link">
+					<br \>
 					<h2>something</h2>
 					<a href="http://www.google.co.in/kitten_12"><p>http://www.google.co.in/kitten_12</p></a>
 				</div>
