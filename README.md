@@ -13,10 +13,10 @@
 <body>
 	<div class="container">
 		<div class="row">
-			<div class=" col-xs-6 col-sm-6 col-md-6" id="logo">
+			<div class="col-sm-6 col-md-6" id="logo">
 				<img src="http://st2.depositphotos.com/1972501/11226/v/950/depositphotos_112267474-stock-illustration-cat-vector-logo.jpg" id="image1" alt="logo">
 			</div>
-			<div class="col-xs-6 col-md-6 col-sm-6" id="heading">
+			<div class="col-sm-6 col-md-6" id="heading">
 				<header><h1>jane doette</h1></header>
 				<nav>front-end ninja</nav>
 			</div>
