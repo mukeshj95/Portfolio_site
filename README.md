@@ -1,4 +1,3 @@
-Udacity portfolio project
 <html>
 <head>
 	<title>test.html</title>
